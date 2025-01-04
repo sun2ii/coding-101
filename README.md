@@ -1,0 +1,7 @@
+# Coding 101
+
+# Who Am I ?
+My name is [Ben Basuni](https://www.linkedin.com/in/benbasuni/) and I've been a programmer for 10+ years. I've worked at Datadog where I created a chrome extension for the team over there on keyboard shortcuts, I'm a vim advocate. Before I was a coder, I 10x my output production at my job at the Franchise Tax Board for the government by using macros. I graduated as a philosophy major, so I think very deeply about problems and how they translate into their business use case.
+
+# If you want consulting or are interested in being a thought partner 
+https://www.enzi.ai 
