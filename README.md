@@ -5,3 +5,6 @@ My name is [Ben Basuni](https://www.linkedin.com/in/benbasuni/) and I've been a 
 
 # If you want consulting or are interested in being a thought partner 
 https://www.enzi.ai 
+
+# Why did I create this ? 
+I created this because my sister had a question about a telegram bot that she wanted. She asked me what an API is, and after giving her the basic answer of 
