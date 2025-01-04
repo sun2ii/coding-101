@@ -7,6 +7,14 @@ Anything you learn can be related back to functions.
 graph LR
     A[INPUTS] --> B[CODING_LOGIC]
     B --> C[OUTPUT]
+
+    classDef red fill:#440000,stroke:#ff4444,stroke-width:2px,color:#ffcccc;
+    classDef green fill:#003300,stroke:#44ff44,stroke-width:2px,color:#ccffcc;
+    classDef blue fill:#000033,stroke:#4444ff,stroke-width:2px,color:#ccccff;
+
+    class A red;
+    class B green;
+    class C blue;
 ```
 How to translate the graph above to the "python" language is by abiding to the following `syntax`:
 
@@ -30,7 +38,7 @@ def fn1_greeting(input1):
 # Quiz
 1. What is the function name ? 
 2. What are the input parameters ? How many parameters are there ? 
-3. When this function is ran  `print(greet("Sister"))`, what will this output ? 
+3. When this function is ran  `print(fn1_greeting("Sister"))`, what will this output ? 
 
 # Cheatsheet
 def FUNCTION_NAME(FUNCTION_INPUTS):
