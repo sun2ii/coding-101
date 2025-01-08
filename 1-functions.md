@@ -35,11 +35,6 @@ def fn1_greeting(input1):
     output = f"Hello, {input1}!" # "= is a variable assignment"
     return output
 
-def fn1_greeting(input1):
-    return f"Hello, {input1}!"
-
-fn1_greeting("Bella")
-
 # Quiz
 1. What is the function name ? 
 2. What are the input parameters ? How many parameters are there ? 
