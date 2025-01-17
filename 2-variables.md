@@ -24,12 +24,12 @@ The **left side** of the assignment (`=`) is the **variable**, and the **right s
 ```mermaid
 graph LR
     G["VARIABLE<br>(abc)"] -->|"ASSIGNMENT<br>(=)"| H["VALUE<br>(123)"]
+    linkStyle 0 stroke:#66aa66,color:#66aa66,stroke-width:2px;
 
-    classDef purple fill:#330033,stroke:#993399,stroke-width:2px,color:#e5ccff;
-    classDef pink fill:#660033,stroke:#ff66cc,stroke-width:2px,color:#ffccff;
+    classDef darkGreen fill:#336633,stroke:#004d00,stroke-width:2px,color:#ccffcc;
 
-    class G purple;
-    class H pink;
+    class G darkGreen;
+    class H darkGreen;
 
 ```
 
@@ -51,7 +51,6 @@ Variables are like containers that hold data. When we work with functions, we us
 
 - Store temporary results
 - Keep track of changes
-- Remember important values
 
 # 🗡️ Practice
 
